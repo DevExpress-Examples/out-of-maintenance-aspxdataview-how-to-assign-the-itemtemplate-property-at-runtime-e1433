@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [default.aspx](./CS/WebSite/default.aspx) (VB: [default.aspx](./VB/WebSite/default.aspx))
+* [default.aspx.cs](./CS/WebSite/default.aspx.cs) (VB: [default.aspx](./VB/WebSite/default.aspx))
+* [MyUserControl.ascx](./CS/WebSite/MyUserControl.ascx) (VB: [MyUserControl.ascx](./VB/WebSite/MyUserControl.ascx))
+* [MyUserControl.ascx.cs](./CS/WebSite/MyUserControl.ascx.cs) (VB: [MyUserControl.ascx](./VB/WebSite/MyUserControl.ascx))
+<!-- default file list end -->
 # ASPxDataView - How to assign the ItemTemplate property at runtime
 
 
