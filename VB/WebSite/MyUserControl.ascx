@@ -1,8 +1,8 @@
 <%@ Control Language="vb" AutoEventWireup="true" CodeFile="MyUserControl.ascx.vb"
 	Inherits="MyUserControl" %>
-<%@ Register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxPanel"
+<%@ Register Assembly="DevExpress.Web.v15.1" Namespace="DevExpress.Web"
 	TagPrefix="dxp" %>
-<%@ Register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxEditors"
+<%@ Register Assembly="DevExpress.Web.v15.1" Namespace="DevExpress.Web"
 	TagPrefix="dxe" %>
 
 <dxp:ASPxPanel ID="ASPxPanel1" runat="server" Width="200px">
